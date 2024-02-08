@@ -1,2 +1,2 @@
-# slurm_s063449
-#Загрузка репозитория с GitHub
+git
+status
